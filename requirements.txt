@@ -1,2 +1,2 @@
 # Flask项目依赖
-flask==2.0.1
+flask==2.3.3
